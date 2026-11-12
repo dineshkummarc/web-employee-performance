@@ -42,7 +42,7 @@ define('DB_PASS', '');
 define('DB_NAME', 'samara_evaluation');
 
 // URL configuration
-$base_url = 'http://localhost/samara_new/';
+$base_url = 'http://localhost/web-employee-performance/';
 
 // Connect to database
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
