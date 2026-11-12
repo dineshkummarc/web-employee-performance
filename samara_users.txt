@@ -39,8 +39,6 @@ Note: All passwords in the database are hashed with bcrypt. The actual password 
    Email: cs.staff1@samarauniversity.edu.et
    Password: password
    Full Name: Alem Tsegaye
-   
-
 
  web based employee performance 
 management system for Samara University
